@@ -1,9 +1,8 @@
 <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
 <h1 align="center">Hi there!👋, I'm Kaviya P</h1>
 <h3 align="center">A passionate FullStack Developer from India 🚀</h3>
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BidjBiOHA1ZWZzcjFrbHNlYjNmMHBvYTRnYnJyb2lzdm1ranAwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="working-gif" style="max-width: 100%; height: auto;">
 
-<img 
- align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BidjBiOHA1ZWZzcjFrbHNlYjNmMHBvYTRnYnJyb2lzdm1ranAwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="working-gif"">
 - 🔭 I’m currently pursuing **Final Year Engineering 💻**
 
 - 🌱 I’m currently learning **FullStack Developement**
