@@ -28,3 +28,6 @@
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BidjBiOHA1ZWZzcjFrbHNlYjNmMHBvYTRnYnJyb2lzdm1ranAwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="working-gif" style="max-width: 100%; height: auto;">
+  </div>
