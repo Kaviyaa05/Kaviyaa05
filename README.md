@@ -1,4 +1,5 @@
 <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
+<img  alt="portfolio" width="100%" src="[https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif](https://dribbble.com/shots/13912339-Portfolio-gif?utm_source=Clipboard_Shot&utm_campaign=M_MATEEN&utm_content=Portfolio%20gif&utm_medium=Social_Share)">
 <h1 align="center">Hi there!👋, I'm Kaviya P</h1>
 <h3 align="center">A passionate FullStack Developer from India 🚀</h3>
 
@@ -30,6 +31,4 @@
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BidjBiOHA1ZWZzcjFrbHNlYjNmMHBvYTRnYnJyb2lzdm1ranAwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="working-gif" style="max-width: 100%; height: auto;">
-  </div>
+  
