@@ -1,5 +1,5 @@
 <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
-<img  alt="portfolio" width="100%" src="[https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif](https://dribbble.com/shots/13912339-Portfolio-gif?utm_source=Clipboard_Shot&utm_campaign=M_MATEEN&utm_content=Portfolio%20gif&utm_medium=Social_Share)">
+<img  alt="portfolio" width="100%" src="https://dribbble.com/shots/13912339-Portfolio-gif?utm_source=Clipboard_Shot&utm_campaign=M_MATEEN&utm_content=Portfolio%20gif&utm_medium=Social_Share">
 <h1 align="center">Hi there!👋, I'm Kaviya P</h1>
 <h3 align="center">A passionate FullStack Developer from India 🚀</h3>
 
