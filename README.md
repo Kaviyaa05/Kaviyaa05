@@ -5,7 +5,7 @@
 - 🔭 I’m currently pursuing **Final Year Engineering**
 
 - 🌱 I’m currently learning **FullStack Developement**
-- 👨‍💻 My portfolio website [https://vsmidhun21.github.io/portfolio/](https://vsmidhun21.github.io/portfolio/)
+- 👨‍💻 My portfolio website [(https://kaviya145.netlify.app)](https://kaviya145.netlify.app)
 
 - 🤝 I’m looking for help with **placements in FAANG**
 -  💬 Ask me about **Tech**
