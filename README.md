@@ -17,7 +17,8 @@
   <a href="https://www.linkedin.com/in/kaviya-p-720909219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun-v-s" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.kaavyaaa.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhun_021" height="30" width="40" /></a>
 </p>
-## My Tech Stack
+<h3 align="left">My Tech Stack</h3>
+
 
 ### Languages
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" width="40"/> Python  
