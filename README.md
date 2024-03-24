@@ -6,7 +6,7 @@
 - 🔭 I’m currently pursuing **Final Year Engineering 💻**
 
 - 🌱 I’m currently learning **FullStack Developement**
-- 👨‍💻 Checkout my portfolio website [here](https://kaviya145.netlify.app)
+- 👨‍💻 Checkout my portfolio website [here](https://kaviya0505.netlify.app/)
 
 - 🤝 Seeking guidance and opportunities to land in FAANG! 🚀
 -  💬 Let's chat about tech, innovation, and beyond! 💡
